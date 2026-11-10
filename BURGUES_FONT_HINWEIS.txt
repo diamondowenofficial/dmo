@@ -1,0 +1,1 @@
+Die exakte Schrift Burgues Script ist nicht enthalten. Fuer die echte Darstellung die rechtmaessig lizenzierte Webfont-Datei als assets/BurguesScript.woff2 ablegen. Ohne diese Datei erscheint eine elegante System-Ersatzschrift. Alle Seiten und Links bleiben funktionsfaehig.
